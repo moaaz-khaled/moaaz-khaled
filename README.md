@@ -13,12 +13,20 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="60" alt="facebook logo" />
   </a>
   <img width="25" />
-  <a href="[رابط إنستجرام](https://www.instagram.com/mo3az_2003/)" target="_blank">
+  <a href = "[رابط إنستجرام](https://www.instagram.com/mo3az_2003/)" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="60" alt="instagram logo" />
   </a>
   <img width="25" />
-  <a href="رابط لينكد إن" target="_blank">
+  <a href = "" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo" />
+  </a>
+  <img width="25" />
+  <a href = "https://codeforces.com/profile/Mo3az.khaled" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Codeforces_logo.svg" height="60" alt="codeforces logo" />
+  </a>
+  <img width="25" />
+  <a href = "https://leetcode.com/u/RufDjeKxVU/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="60" alt="leetcode logo" />
   </a>
 </div> 
 
