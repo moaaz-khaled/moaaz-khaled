@@ -1,7 +1,6 @@
-# Hi There 👋, I'm Mohamed Atef
+# Hi There 👋, I'm Moaaz Khaled
 
-######### SoftWare Engineer | C++ | Java | JavaScript | [100] LeetCode  | [1000] CodeForces
-
+## <p align="center">SoftWare Engineer | C++ | Java | JavaScript | [100] LeetCode | [1000] CodeForces</p>  
 - 🎓 تخرجت من **[اسم الجامعة]**  
 - 📖 حاليًا أتعلم **[الموضوع اللي بتدرسه]**  
 - 🚀 كل مشاريعي متاحة هنا [رابط موقعك الشخصي أو GitHub]  
