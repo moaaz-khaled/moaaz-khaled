@@ -8,9 +8,19 @@
 - 📩 تواصل معي عبر [إيميلك]  
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](رابط لينكد إن)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](رابط تويتر)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=react)](رابط موقعك)  
+<div align="left">
+  <a href = "https://www.facebook.com/profile.php?id=100017706518481" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="60" alt="facebook logo" />
+  </a>
+  <img width="25" />
+  <a href="https://www.instagram.com/mo3az_2003/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="60" alt="instagram logo" />
+  </a>
+  <img width="25" />
+  <a href="رابط لينكد إن" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo" />
+  </a>
+</div> 
 
 ## 🚀 Languages and Tools:  
 <div align="left">
