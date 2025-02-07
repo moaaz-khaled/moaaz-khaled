@@ -58,9 +58,9 @@
 ---
 
 ## 🔥 LeetCode Stats  
-<div align = "center">
+<!--<div align = "center"> -->
   ## ![LeetCode Stats](https://leetcard.jacoblin.cool/RufDjeKxVU?theme=dark&font=Karma)
-</div>
+<!-- </div> -->
 
 ---
 
