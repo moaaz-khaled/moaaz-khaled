@@ -23,7 +23,7 @@
 ## 🔥 LeetCode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/RufDjeKxVU?theme=dark&font=Karma)
 
+---
 
-## 🔥 codeforces Stats  
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Mo3az.khaled)
-
+## 🔥 codeforces rate  
+![Codeforces Rating](https://badges.joonhyung.xyz/codeforces/Mo3az.khaled.svg)
