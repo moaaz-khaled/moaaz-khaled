@@ -24,12 +24,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo" />
   </a>
   <img width="25" />
-  <a href="https://codeforces.com/profile/Mo3az.khaled" target="_blank">
-    <img src="https://codeforces.org/s/19649/images/codeforces-sponsored-by-ton.png" height="60" alt="codeforces logo" />
-  </a>
-  <img width="25" />
   <a href = "https://leetcode.com/u/RufDjeKxVU/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="60" alt="leetcode logo" />
+  </a>
+  <img width="25" />
+  <a href="https://codeforces.com/profile/Mo3az.khaled" target="_blank">
+    <img src="https://codeforces.org/s/19649/images/codeforces-sponsored-by-ton.png" height="60" alt="codeforces logo" />
   </a>
 </div> 
 
@@ -48,8 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="sql logo"  />
   <img width="25" />
