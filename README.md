@@ -25,4 +25,4 @@
 
 
 ## 🔥 codeforces Stats  
-![Codeforces Stats](https://cf.leed.at/api/Mo3az.khaled.png)
+![Codeforces Rating](https://badges.joonhyung.xyz/codeforces/Mo3az.khaled.svg)
