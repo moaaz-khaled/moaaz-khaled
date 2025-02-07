@@ -21,4 +21,4 @@
 ---
 
 ## 🔥 LeetCode Stats  
-![LeetCode Stats]([https://leetcode.com/u/RufDjeKxVU/])
+![LeetCode Stats](https://leetcard.jacoblin.cool/RufDjeKxVU?theme=dark&font=Karma)
