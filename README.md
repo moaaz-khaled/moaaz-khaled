@@ -25,4 +25,5 @@
 
 
 ## 🔥 codeforces Stats  
-![Codeforces Rating](https://badges.joonhyung.xyz/codeforces/Mo3az.khaled.svg)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Mo3az.khaled)
+
