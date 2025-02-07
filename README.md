@@ -13,8 +13,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="60" alt="facebook logo" />
   </a>
   <img width="25" />
-  <a href="https://www.instagram.com/mo3az_2003/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="60" alt="instagram logo" />
+  <a href="[رابط إنستجرام](https://www.instagram.com/mo3az_2003/)" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="60" alt="instagram logo" />
   </a>
   <img width="25" />
   <a href="رابط لينكد إن" target="_blank">
