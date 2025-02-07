@@ -1,6 +1,6 @@
-# Hi There 👋, I'm [اسمك هنا]  
+# Hi There 👋, I'm Mohamed Atef
 
-### Front-end Engineer | React.js | Next.js | TypeScript | [عدد] LeetCode  
+### SoftWare Engineer | C++ | Java | JavaScript | [100] LeetCode  | [1000] CodeForces
 
 - 🎓 تخرجت من **[اسم الجامعة]**  
 - 📖 حاليًا أتعلم **[الموضوع اللي بتدرسه]**  
@@ -22,4 +22,4 @@
 ---
 
 ## 🔥 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/اسم-حسابك-على-LeetCode?theme=dark&ext=contest) 
+![LeetCode Stats]([https://leetcard.jacoblin.cool/اسم-حسابك-على-LeetCode?theme=dark&ext=contest](https://leetcode.com/u/RufDjeKxVU/)) 
