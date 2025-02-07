@@ -1,11 +1,14 @@
 # Hi There 👋, I'm Moaaz Khaled
 
 ## <p align="center">SoftWare Engineer | C++ | Java | JavaScript | +100 LeetCode | +1000 CodeForces</p>  
-- 🎓 تخرجت من **[اسم الجامعة]**  
-- 📖 حاليًا أتعلم **[الموضوع اللي بتدرسه]**  
-- 🚀 كل مشاريعي متاحة هنا [رابط موقعك الشخصي أو GitHub]  
-- 🧠 اسألني عن **Problem Solving | JavaScript | TypeScript**  
-- 📩 تواصل معي عبر [إيميلك]  
+
+- 🎓 I am studying for a degree in Computer Science at Helwan University.
+
+- 🌱 I’m currently learning Advanced topic in | Next js | React js
+
+- 💬 Ask me about Problem Solving | JavaScript | java swing
+
+- 📫 How to reach me mo3az.khalid.2003@gmail.com
 
 ## 🌐 Connect with me:
 <div align="left">
@@ -52,13 +55,7 @@
 </div>
 
 
-
 ---
 
 ## 🔥 LeetCode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/RufDjeKxVU?theme=dark&font=Karma)
-
----
-
-## 🔥 codeforces rate  
-![Codeforces Rating](https://badges.joonhyung.xyz/codeforces/Mo3az.khaled.svg)
