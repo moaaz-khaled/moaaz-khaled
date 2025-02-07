@@ -22,3 +22,7 @@
 
 ## 🔥 LeetCode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/RufDjeKxVU?theme=dark&font=Karma)
+
+
+## 🔥 codeforces Stats  
+![Codeforces Stats](https://cf.leed.at/api/Mo3az.khaled.png)
