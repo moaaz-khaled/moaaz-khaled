@@ -21,4 +21,4 @@
 ---
 
 ## 🔥 LeetCode Stats  
-![LeetCode Stats]([https://leetcard.jacoblin.cool/اسم-حسابك-على-LeetCode?theme=dark&ext=contest](https://leetcode.com/u/RufDjeKxVU/)) 
+![LeetCode Stats]([https://leetcode.com/u/RufDjeKxVU/])
