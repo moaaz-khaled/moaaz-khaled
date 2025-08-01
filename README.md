@@ -1,4 +1,4 @@
-# Hi There 👋, I'm Moaaz Khaled
+# Hello , I'm Moaz Khaled👋
 
 ## <p align="center">Software Engineer || Full-Stack (React & Laravel) || Passionate About Clean Architecture & Scalable Web Systems  || Pupil @Codeforces </p>  
 
@@ -77,7 +77,7 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"/>
   <img width="25" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-1521500-1288242.png?f=webp&w=256" height="60" alt="github logo"/>
+  <img src="https://i.postimg.cc/dtRpfxJh/github-logo.png" height="60" alt="github logo"/>
   <img width="25" />
   <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" height="60" alt="Vercel logo"/>
   <img width="25" />
