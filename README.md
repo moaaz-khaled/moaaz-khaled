@@ -1,14 +1,22 @@
 # Hi There 👋, I'm Moaaz Khaled
 
-## <p align="center">Software Engineer <fullstack> | C++ | Java | JavaScript | +100 LeetCode | +1000 CodeForces</p>  
+## <p align="center">Software Engineer || Full-Stack (React & Laravel) || Passionate About Clean Architecture & Scalable Web Systems  || Pupil @Codeforces </p>  
 
-- 🎓 I am studying for a degree in Computer Science at Helwan University.
+<div>
+  <h1> • About Me </h1>
+  
+  - 💻 I'm a Computer Science student at Helwan University with a growing passion for Full-Stack Development .
+ 
+  - 🚀 Fast learner & passionate about building things that live on the web (and sometimes in games too!)
+  
+  - 🎮 I also have hands-on experience with Unity (2D & 3D), and I've built two small games just for fun, learning — and as an experiment.
+  
+  - 🌐 I’m interested in everything from clean code to clean deployments. Whether it's front-end polish or back-end logic — I enjoy it all.
+  
+  - 📚 Always exploring new technologies and eager to keep learning.
 
-- 🌱 I’m currently learning Advanced topic in | Next js | React js
-
-- 💬 Ask me about Problem Solving | JavaScript | java swing
-
-- 📫 How to reach me mo3az.khalid.2003@gmail.com
+  - 📫 Let's connect: mo3az.khalid.2003@gmail.com .
+</div>
 
 ## 🌐 Connect with me:
 <div align="left">
@@ -53,7 +61,7 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="Laravel logo"/>
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="60" alt="c logo"/>
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"/>
   <img width="25" />
