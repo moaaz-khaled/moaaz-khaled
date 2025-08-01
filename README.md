@@ -77,9 +77,9 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"/>
   <img width="25" />
-  <img src="https://i.postimg.cc/dtRpfxJh/github-logo.png" height="60" alt="github logo"/>
+  <img src="https://i.postimg.cc/28VyChXF/GitHub.png" height="60" alt="github logo"/>
   <img width="25" />
-  <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" height="60" alt="Vercel logo"/>
+  <img src="https://i.postimg.cc/VLp6vvxy/vercel.png" height="60" alt="Vercel logo"/>
   <img width="25" />
 
 </div>
