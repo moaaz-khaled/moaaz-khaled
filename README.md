@@ -1,9 +1,9 @@
 # Hello , I'm Moaz Khaled👋
 
-## <p align="center">Software Engineer || Full-Stack (React & Laravel) || Passionate About Clean Architecture & Scalable Web Systems  || Pupil @Codeforces </p>  
+## <p align="center">Software Engineer || Full-Stack Developer (React & Laravel) || Enthusiast of Clean Architecture & Scalable Web Systems  || Pupil @Codeforces </p>  
 
 <div>
-  <h1> • About Me </h1>
+  <h1> 👨‍💻 About Me: </h1>
   
   - 💻 I'm a Computer Science student at Helwan University with a growing passion for Full-Stack Development .
  
@@ -20,23 +20,23 @@
 
 ## 🌐 Connect with me:
 <div align="left">
-  <a href = "https://www.facebook.com/profile.php?id=100017706518481" target="_blank">
+  <a href = "https://www.facebook.com/profile.php?id=100017706518481">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="60" alt="facebook logo" />
   </a>
   <img width="25" />
-  <a href = "https://www.instagram.com/mo3az_2003/" target="_blank">
+  <a href = "https://www.instagram.com/mo3az_2003/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="60" alt="instagram logo" />
   </a>
   <img width="25" />
-  <a href = "https://www.linkedin.com/in/moaz-khaled-250b292b0/" target="_blank">
+  <a href = "https://www.linkedin.com/in/moaz-khaled-250b292b0/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo" />
   </a>
   <img width="25" />
-  <a href = "https://leetcode.com/u/RufDjeKxVU/" target="_blank">
+  <a href = "https://leetcode.com/u/RufDjeKxVU/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="60" alt="leetcode logo" />
   </a>
   <img width="25" />
-  <a href="https://codeforces.com/profile/Mo3az.khaled" target="_blank">
+  <a href="https://codeforces.com/profile/Mo3az.khaled">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=webp&w=256" height="60" alt="codeforces logo" />
   </a>
 </div> 
