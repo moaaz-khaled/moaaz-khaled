@@ -40,6 +40,10 @@
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=webp&w=256" height="60" alt="codeforces logo" />
   </a>
     <img width="25" />
+  <a href="https://www.chess.com/member/mo3az_khalid">
+    <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5841a6800000ff0005987a9b/0x0.png" height="60" alt="chess.com logo" />
+  </a>
+    <img width="25" />
 </div> 
 
 ## 🚀 Languages and Tools:  
@@ -81,6 +85,6 @@
   <img src="https://i.postimg.cc/28VyChXF/GitHub.png" height="60" alt="github logo"/>
   <img width="25" />
   <img src="https://i.postimg.cc/VLp6vvxy/vercel.png" height="60" alt="Vercel logo"/>
-  <img width="25" />
+  <img width="25" />
 
 </div>
