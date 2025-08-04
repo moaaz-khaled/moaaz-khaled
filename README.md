@@ -39,6 +39,7 @@
   <a href="https://codeforces.com/profile/Mo3az.khaled">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=webp&w=256" height="60" alt="codeforces logo" />
   </a>
+    <img width="25" />
 </div> 
 
 ## 🚀 Languages and Tools:  
