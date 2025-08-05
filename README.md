@@ -93,4 +93,6 @@
 
 
 ## 🐙 GitHub Statistic:  
-<img src="https://streak-stats.demolab.com?user=moaaz-khaled&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&cache_seconds=0" alt="streak graph" style="display:block; margin:auto;" width="100%"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=moaaz-khaled&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&cache_seconds=0" width="100%" height="200px" alt="streak graph"/>
+</div>
