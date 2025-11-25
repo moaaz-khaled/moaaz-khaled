@@ -1,6 +1,6 @@
 # Hello , I'm Moaz Khaled👋
 
-## <p align="center">Software Engineer || Full-Stack Developer (React & Laravel) || Enthusiast of Clean Architecture & Scalable Web Systems  || Pupil @Codeforces </p>  
+## <p align="center">Software Engineer || Full-Stack Developer (React & Laravel) || Enthusiast of Clean Architecture & Scalable Web Systems  || Specialist @Codeforces </p>  
 
 <div>
   <h1> 👨‍💻 About Me: </h1>
