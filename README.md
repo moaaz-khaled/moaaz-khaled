@@ -1,6 +1,6 @@
 # Hello , I'm Moaz Khaled👋
 
-## <p align="center">Software Engineer || Full-Stack Developer (React & Laravel) || instructor Unity @ 3c School || Specialist @Codeforces </p>  
+## <p align="center">Software Engineer || Full-Stack Developer (React & Laravel) || instructor Unity @3c-School || Specialist @Codeforces </p>  
 
 <div>
   <h1> 👨‍💻 About Me: </h1>
